@@ -59,13 +59,13 @@ if pagina == "Presentación":
     Es por esto que desde varios años he buscado aumentar y mejorar mis fortalezas. Hoy por hoy, si tuviera que nombrar solo 
     5 fortalezas que me hacen sobresalir y mejorar todos los dias yo diría que son las siguientes:
 
-    1. **Capacidad de análisis:** El estudiar en una carrera cuyo principal enfoque es la analítica de datos, se me facilita entender el cómo se compone la información así como su origen.
+    1. **Capacidad de análisis:** El estudiar en una carrera cuyo principal enfoque es la analítica de datos, se me facilita entender el cómo se compone la información.Para posteriormente usarla.
 
-    2. **Adaptabilidad:** A lo largo de mi vida he tenido muchos cambios en diferentes ámbitos. El haber estado en diferentes competencias académicas, así como en diversas actividades deportivas, me ha enfrentado ante diversas personas y problemas, por lo que el cambiar y modificarme a mi entorno es un proceso que se me facilita.
+    2. **Adaptabilidad:** A lo largo de mi vida he tenido muchos cambios en diferentes ámbitos. El haber estado en diferentes competencias académicas,Talleres, así como en diversas actividades deportivas. Muchas veces me he enfrentado ante diversas personas y problemas, por lo que el cambiar y adaptarme a mi entorno es un proceso que se me facilita.
 
     3. **Pensamiento Analítico:** El tener una buena capacidad de análisis y el entender el origen de la información, me permite tomar decisiones estratégicas y realizar las acciones más acordes al análisis anteriormente hecho.
 
-    4. **Creatividad:** Me considero una persona creativa, siempre trato de ser una persona que trata de destacar. Me gusta abrirme a nuevas oportunidades y herramientas y usarlas a mi favor, lo que me facilita innovar y desarrollar cosas diferentes al promedio.
+    4. **Creatividad:** Me considero una persona creativa, siempre trato de ser una persona que trata de destacar. Me gusta abrirme a nuevas oportunidades y herramientas y usarlas a mi favor, lo que me facilita innovar y desarrollar cosas diferentes a comparación de la gran mayoria de personas.
 
     5. **Resiliencia:** Ser una persona que se encuentra en constante cambio me ha hecho realizar muchas veces actividades en las cuales no soy bueno al principio y muchas veces esa falta de conocimiento se convierte en fracaso. Sin embargo, mi resiliencia me ha permitido aprender del fracaso y no rendirme, haciendo que con el tiempo aquello en lo que fracasé se convierta en conocimientos y experiencias.
         </p>
@@ -86,9 +86,9 @@ if pagina == "Presentación":
 
     3.**Perfeccionismo:** Soy una persona que cree que si algo se puede hacer mejor trato de hacerlo. No me gusta dejar las cosas incompletas, y muchas veces este deseo de perfeccionismo me lleva a ser muy exigente conmigo, ya que no me gusta sentir que hice menos de lo que sabía hacer.
 
-    4.**Delegar trabajo:** A pesar de que me gusta trabajar en equipo, si no conozco muy bien a las personas con las que trabajo me cuesta confiar en las actividades más importantes. Sin embargo, he aprendido a conocerme y aceptar lo que puedo y no puedo hacer, lo que ha permitido que sea más fácil el soltar actividades.
+    4.**Delegar trabajo:** A pesar de que me gusta trabajar en equipo, si no conozco muy bien a las personas con las que trabajo me cuesta confiarles las actividades más importantes. Sin embargo, he aprendido a conocerme y aceptar lo que puedo y no puedo hacer, lo que ha permitido que sea más fácil el soltar actividades.
 
-    **Ignorancia:** Esta es una debilidad que creo que tenemos todos. Yo creo que nadie sabe todo, así que pensando en un rol dentro de la consultoría, creo que existen muchas cosas que no sé bien cómo se hace. Pero creo que mi gusto por aprender y mi adaptabilidad hacen que sea una persona que aprende rápido, haciendo que con el tiempo la ignorancia disminuya.
+    **Ignorancia:** Esta es una debilidad que creo que tenemos todos. Yo creo que nadie sabe todo, así que pensando en un rol dentro de la consultoría, creo que existen muchas cosas que no sé bien cómo se hacen. Pero creo que mi gusto por aprender y mi facilidad por adaptarme hacen que sea una persona que aprende rápido, haciendo que con el tiempo la ignorancia disminuya.
     </p>
     """, unsafe_allow_html=True)
     st.image("debilidades.jpg", width=500)
@@ -97,8 +97,8 @@ if pagina == "Presentación":
     st.markdown("<h2 style='color:#ADFF2F;'>Éxito</h2>", unsafe_allow_html=True)
     st.markdown("""
     <p style='text-align: justify; color: white;'>
-    Para mí el éxito es la unión de metas y deseos logrados a través de mis capacidades en el ámbito que deseo en mi vida, 
-    ya sea laboral, familiar, personal y espiritual, complementando con aquellas cosas que me dan felicidad en mi vida.
+    Para mí el éxito es la unión de metas logradas a través de mi esfuerzo y capacidades. Esto en el ámbito que deseo en mi vida, 
+    ya sea laboral, familiar, personal o espiritual. A su vez estas metas estan complementadas con aquellas cosas que me dan felicidad en mi vida.
     </p>
     """, unsafe_allow_html=True)
     st.image("exito.jpg", width=500)
@@ -109,14 +109,14 @@ if pagina == "Presentación":
     <p style='text-align: justify; color: white;'>
     En 3 años me veo con grandes cambios, principalmente en el ámbito laboral y personal.
 
-    **Ámbito laboral:** Me veo graduado de mi licenciatura, así como ya estar trabajando en una empresa de carácter internacional en alguna de las siguientes industrias:  
+    **Ámbito laboral:** Me veo graduado de mi licenciatura. A su vez me gustaria estar trabajando en una empresa de carácter internacional en alguna de las siguientes industrias:  
     1. Consultora  
     2. Tecnológica  
     3. Consumo  
 
-    Ya contaría con algo de experiencia laboral y esto me estaría abriendo la oportunidad de empezar a tener roles de un poco mayor responsabilidad dentro de la empresa en la que esté. También me veo empezando a ver diferentes opciones para una especialización acorde a mi carrera profesional.
+    Ya contaría con algo de experiencia laboral despues de un tiempo como interno y esto me estaría abriendo la oportunidad de empezar a tener roles con un poco mayor responsabilidad o en su caso mas individuales dentro de la empresa en la que esté. Por ultimo me veo empezando a ver diferentes opciones para una especialización o incluso ya tomando la especialización acorde a mi carrera profesional.
 
-    **Ámbito personal:** Me veo con una mayor madurez que la que cuento hoy, así como un amplio conocimiento en diferentes cosas. Y por último, al ser una persona apasionada por el deporte, me veo con un aspecto físico mejor al que me encuentro hoy.
+    **Ámbito personal:** Me veo con una mayor madurez que la que cuento hoy, Me veo empezando a tener una salud financiera, Tambien me veo como una persona mas independiente en el aspecto economico. Y por último, al ser una persona apasionada por el deporte, me veo con un aspecto físico mejor al que me encuentro hoy.
     </p>
     """, unsafe_allow_html=True)
     st.image("vision.jpg", width=500)
@@ -175,3 +175,4 @@ elif pagina == "Dashboard":
     color_discrete_sequence=px.colors.sequential.Teal
 )
     st.plotly_chart(fig_hab, use_container_width=True)
+
