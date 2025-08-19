@@ -88,7 +88,7 @@ if pagina == "Presentación":
 
     4.**Delegar trabajo:** A pesar de que me gusta trabajar en equipo, si no conozco muy bien a las personas con las que trabajo me cuesta confiarles las actividades más importantes. Sin embargo, he aprendido a conocerme y aceptar lo que puedo y no puedo hacer, lo que ha permitido que sea más fácil el soltar actividades.
 
-    **Ignorancia:** Esta es una debilidad que creo que tenemos todos. Yo creo que nadie sabe todo, así que pensando en un rol dentro de la consultoría, creo que existen muchas cosas que no sé bien cómo se hacen. Pero creo que mi gusto por aprender y mi facilidad por adaptarme hacen que sea una persona que aprende rápido, haciendo que con el tiempo la ignorancia disminuya.
+    5.**Ignorancia:** Esta es una debilidad que creo que tenemos todos. Yo creo que nadie sabe todo, así que pensando en un rol dentro de la consultoría, creo que existen muchas cosas que no sé bien cómo se hacen. Pero creo que mi gusto por aprender y mi facilidad por adaptarme hacen que sea una persona que aprende rápido, haciendo que con el tiempo la ignorancia disminuya.
     </p>
     """, unsafe_allow_html=True)
     st.image("debilidades.jpg", width=500)
@@ -175,4 +175,5 @@ elif pagina == "Dashboard":
     color_discrete_sequence=px.colors.sequential.Teal
 )
     st.plotly_chart(fig_hab, use_container_width=True)
+
 
